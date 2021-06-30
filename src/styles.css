@@ -19,10 +19,6 @@ body {
   justify-content: center;
 }
 
-#root {
-  width: 76ch;
-}
-
 h1 {
   position: absolute;
   top: 43px;

@@ -5,14 +5,16 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "drei": "2.2.12",
+    "@react-three/drei": "6.0.3",
+    "@react-three/fiber": "7.0.1",
+    "@react-three/postprocessing": "2.0.3",
     "react": "17.0.1",
     "react-colorful": "4.4.4",
     "react-dom": "17.0.1",
     "react-scripts": "4.0.1",
-    "react-three-fiber": "5.3.10",
-    "three": "0.123.0",
-    "valtio": "0.4.8"
+    "three": "0.129.0",
+    "three-stdlib": "^2.3.1",
+    "valtio": "1.0.6"
   },
   "devDependencies": {
     "typescript": "4.1.3"
